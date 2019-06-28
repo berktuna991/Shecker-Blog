@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "picture": "http://2.bp.blogspot.com/-cVBFe7UeKTA/UkYju4Q4b0I/AAAAAAAABs4/876r33sNS94/s450-a/foto_blog1.jpg",
+      "title": "Fusce at justo et orci tempus ",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at justo et orci tempus ultrices id et erat. Vestibulum at nisi posuere, ultricies lectus id, rhoncus turpis. Vivamus efficitur elementum mauris dignissim ultricies. Nam quis justo iaculis, convallis dolor eget, aliquet nunc. Maecenas congue arcu id mauris ornare, at aliquam metus aliquet. Sed scelerisque mattis lacus, ut laoreet urna ultrices non. Donec nunc nisl, egestas ac elementum at, viverra sed tellus. Pellentesque mauris nulla, ullamcorper et placerat vel, porttitor quis metus. Duis tempor dignissim felis, non posuere lorem dapibus non. Donec interdum, enim in hendrerit vestibulum, dui felis auctor lorem, at mollis elit nisl non nisl. Cras dictum elit et libero pretium, at elementum risus mollis. Donec vitae purus magna. Ut interdum nunc nulla, ac sodales felis accumsan et. Nunc tempus consectetur nisl, in euismod enim lacinia eget.",
+      "username": "Shecker",
+      "date": "09/09/2019"
+    },
+    {
+      "id": 2,
+      "picture": "http://3.bp.blogspot.com/-Jq5gPAJPHxY/UPC6Fq6GLtI/AAAAAAAAAc8/qm4w3tsJroM/s450-a/our-brain.jpg",
+      "title": "Vestibulum at nisi posuere",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at justo et orci tempus ultrices id et erat. Vestibulum at nisi posuere, ultricies lectus id, rhoncus turpis. Vivamus efficitur elementum",
+      "username": "Shecker",
+      "date": "09/09/2019"
+    },
+    {
+      "id": 3,
+      "picture": "http://3.bp.blogspot.com/-Jq5gPAJPHxY/UPC6Fq6GLtI/AAAAAAAAAc8/qm4w3tsJroM/s450-a/our-brain.jpg",
+      "title": "Vestibulum at nisi posuere",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at justo et orci tempus ultrices id et erat. Vestibulum at nisi posuere, ultricies lectus id, rhoncus turpis. Vivamus efficitur elementum",
+      "username": "Shecker",
+      "date": "09/09/2019"
+    },
+    { "id": 4, 
+      "picture" : "http://3.bp.blogspot.com/-Jq5gPAJPHxY/UPC6Fq6GLtI/AAAAAAAAAc8/qm4w3tsJroM/s450-a/our-brain.jpg",
+      "title": "Vestibulum at nisi posuere",
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at justo et orci tempus ultrices id et erat. Vestibulum at nisi posuere, ultricies lectus id, rhoncus turpis. Vivamus efficitur elementum",
+      "username" : "Shecker",
+      "date" : "09/09/2019"
+  }
+  ],
+  "user": {
+    "username": "Shecker",
+    "password": "123456",
+    "email": "test"
+  }
+}
